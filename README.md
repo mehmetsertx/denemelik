@@ -45,10 +45,10 @@
         <h1>Premium Link Generator</h1>
         <a href="#" class="btn">Premium Link Generator Click</a>
         <div class="logo-container">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Mega_logo.png" alt="Mega">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Google_Drive_logo.png" alt="Google Drive">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Dropbox_logo.png" alt="Dropbox">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Rapidgator_logo.png" alt="Rapidgator">
+            <img src="mega_logo.png" alt="Mega">
+            <img src="google_drive_logo.png" alt="Google Drive">
+            <img src="dropbox_logo.png" alt="Dropbox">
+            <img src="rapidgator_logo.png" alt="Rapidgator">
         </div>
     </div>
 </body>
